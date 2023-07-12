@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Trinh-Cong
+- 👀 I’m interested in C/C++ firmware and IoT development.
+- 🌱 I’m currently learning Power Electronics.
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me: ctrinh01028485@gmail.com
+- ✨ Welcome to visit my github page https://ctrinh01028485.github.io
