@@ -15,7 +15,7 @@
 [3]: https://www.instagram.com/serena.torrent/
 [4]: https://www.youtube.com/channel/UCWaOrPAXcnoM5ZnZ_U1IoxA
 
-Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities to learn and work upon  <img align="right" width="400" height="300" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif">                        
+Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities to learn and work upon  <img align="right" width="400" height="300" src="https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif">                        
 
 **Here are some personal things about me** :                                              
 
@@ -28,12 +28,13 @@ Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities
  
 
 #### Competencies
-- - [x] Languages: Embedded C/C++, Python, MATLAB, Makefile, Rust
-- - [x] Protocols: CAN, SPI, UART, I2C, 
-- - [x] Tools and libraries: Numpy, p5.js, Keras (TensorFlow), OpenCV, flask, PyCUDA, OpenGL, Simulink, git,Matlab
+- - [x] Languages: Embedded C/C++, Python, MATLAB, Makefile, Rust, C#, Javascript
+- - [x] Protocols: CAN, SPI, UART, I2C ... 
+- - [x] Tools and libraries: PSIM, PLECs, MATLAB, Keras (TensorFlow), OpenCV-GL, flask, PyCUDA, Git...
+- - [x] Electronics : Altium design, Kicad, Easy EDA
 - - [x] Mechanical : SolidWorks, AutoCAD
 - - [x] Robotics : ROS, PCL, Gazebo, Rviz, bullet, SLAM
-- - [x] Platforms : Linux, Arduino, Raspberry-pi, ESP-IDF, STM32Cube
+- - [x] Platforms : Linux, Arduino, Raspberry-pi, ESP-IDF, STM32Cube, DSP C2000.
 - - [x] Embedded Systems : Buildroot, Yocto, Linux character drivers
 
 #### Soft Skills
@@ -50,5 +51,5 @@ If you like my projects buy me a coffee :relaxed:
 
 [![alt text][10.1]][10]
 
-[10.1]: https://github.com/varun7860/varun7860/blob/main/assets/logo.png
+[10.1]: https://avatars.githubusercontent.com/u/39934557
 [10]: https://www.buymeacoffee.com/ctrinh01028485
