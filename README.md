@@ -15,7 +15,7 @@
 [3]: https://www.instagram.com/serena.torrent/
 [4]: https://www.youtube.com/channel/UCWaOrPAXcnoM5ZnZ_U1IoxA
 
-Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities to learn and work upon  <img align="right" width="400" height="400" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif">                        
+Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities to learn and work upon  <img align="right" width="480" height="360" src="https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif">                        
 
 **Here are some personal things about me** :                                              
 
