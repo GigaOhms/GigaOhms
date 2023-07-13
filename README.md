@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ctrinh01028485@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view](https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view)
 
 - ⚡ Fun fact **Everyone dies.**
 
