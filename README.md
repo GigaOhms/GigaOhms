@@ -1,31 +1,24 @@
-## Hello Everyone! 👋
+<h1 align="center">Hi 👋, I'm @Serena-Trinh</h1>
+<h3 align="center">A learner looking for different opportunities to learn and work</h3>
+<p align="left">
+<a href="https://twitter.com/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrinh01028485" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctrinh01028485" height="30" width="40" /></a>
+<a href="https://fb.com/trinh.cong.24042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh.cong.24042001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/archserena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="archserena" height="30" width="40" /></a>
+</p>
+<img align="right" width="400" height="300" src="https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif">
 
-[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;
-[![alt text][2.1]][2]&nbsp;&nbsp;&nbsp;&nbsp; 
-[![alt text][3.1]][3]&nbsp;&nbsp;&nbsp;&nbsp;
-[![alt text][4.1]][4]&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔭 I’m currently working on **GigaOhms**
 
-[1.1]: https://github.com/varun7860/varun7860/blob/main/assets/linkedin.png
-[2.1]: https://github.com/varun7860/varun7860/blob/main/assets/Hackster.png
-[3.1]: https://github.com/varun7860/varun7860/blob/main/assets/instagram.png
-[4.1]: https://github.com/varun7860/varun7860/blob/main/assets/youtube.png
+- 🌱 I’m currently learning **IoT Embedded System and Power Electronics**
 
-[1]: https://www.linkedin.com/in/varun-walimbe-992929183/](https://www.linkedin.com/in/ctrinh01028485/
-[2]: https://www.hackster.io/ctrinh01028485
-[3]: https://www.instagram.com/serena.torrent/
-[4]: https://www.youtube.com/channel/UCWaOrPAXcnoM5ZnZ_U1IoxA
+- 👯 I’m looking to collaborate on **IUHPEAL**
 
-Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities to learn and work upon  <img align="right" width="400" height="300" src="https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif">                        
+- 📫 How to reach me **ctrinh01028485@gmail.com**
 
-**Here are some personal things about me** :                                              
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view](https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view)
 
- - 🔭 I’m currently working on GigaOhms :bowtie:
- - 🌱 I’m currently learning Embedded System IoT and Power Electronics
- - 💬 Ask me anything about Electronics and I will be happy to help
- - 📫 You can reach me by ctrinh01028485@gmail.com
- - ⚡ Fun fact: Everyone dies.
- - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view?usp=sharing)
- 
+- ⚡ Fun fact **Everyone dies.**
 
 #### Competencies
 - - [x] Languages: Embedded C/C++, Python, MATLAB, Makefile, Rust, C#, Javascript
@@ -46,10 +39,3 @@ Hey I am @Trinh-Cong - A Vibrant eager learner looking for various opportunities
 - - [x] Analytical
 - - [x] Problem solving
 - - [x] Teamwork
-
-If you like my projects buy me a coffee :relaxed:
-
-[![alt text][10.1]][10]
-
-[10.1]: https://avatars.githubusercontent.com/u/39934557
-[10]: https://www.buymeacoffee.com/ctrinh01028485
