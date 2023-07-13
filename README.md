@@ -6,19 +6,14 @@
 <a href="https://fb.com/trinh.cong.24042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh.cong.24042001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/archserena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="archserena" height="30" width="40" /></a>
 </p>
-<img align="right" width="400" height="300" src="https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif">
+<img align="right" width="350" height="350" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 🔭 I’m currently working on **GigaOhms**
-
 - 🌱 I’m currently learning **IoT Embedded System and Power Electronics**
-
 - 👯 I’m looking to collaborate on **IUHPEAL**
-
 - 📫 How to reach me **ctrinh01028485@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CxuKdcWWRH3rsfhVETW3SINI2zKPf-sF/view)
-
-- ⚡ Fun fact **Everyone dies.**
+- ⚡ Fun fact: **Everyone dies.**
 
 #### Competencies
 - - [x] Languages: Embedded C/C++, Python, MATLAB, Makefile, Rust, C#, Javascript
