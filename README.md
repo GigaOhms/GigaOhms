@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Serena-Trinh</h1>
 <h3 align="center">A learner looking for different opportunities to learn and work</h3>
-<p align="left">
-<a href="https://twitter.com/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrinh01028485" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctrinh01028485" height="30" width="40" /></a>
-<a href="https://fb.com/trinh.cong.24042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh.cong.24042001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/archserena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="archserena" height="30" width="40" /></a>
-</p>
 <img align="right" width="400" height="300" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
 - 🔭 I’m currently working on **GigaOhms**
@@ -34,3 +28,10 @@
 - - [x] Analytical
 - - [x] Problem solving
 - - [x] Teamwork
+
+<p align="left">
+<a href="https://twitter.com/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrinh01028485" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctrinh01028485" height="30" width="40" /></a>
+<a href="https://fb.com/trinh.cong.24042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh.cong.24042001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/archserena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="archserena" height="30" width="40" /></a>
+</p>
