@@ -6,7 +6,7 @@
 <a href="https://fb.com/trinh.cong.24042001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh.cong.24042001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/archserena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="archserena" height="30" width="40" /></a>
 </p>
-<img align="right" width="350" height="350" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" width="350" height="350" src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif">
 
 - 🔭 I’m currently working on **GigaOhms**
 - 🌱 I’m currently learning **IoT Embedded System and Power Electronics**
