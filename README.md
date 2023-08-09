@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @GigaOhms</h1>
-<h3 align="center">A learner looking for different opportunities to learn and work</h3>
+<!-- <h3 align="center">A learner looking for different opportunities to learn and work</h3> -->
 <img align="right" width="420" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif">
 
                             _ooOoo_
