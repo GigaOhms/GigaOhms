@@ -2,7 +2,7 @@
 <h3 align="center">A learner looking for different opportunities to learn and work</h3>
 <!-- <img align="right" width="400" height="300" src="https://media.giphy.com/media/Mmh3uG0srGGqFm5Vmw/giphy.gif"> -->
 
-<p
+''
                  _`                   
               _ooOoo_                 
              o8888888o                
@@ -21,7 +21,7 @@
 \  \ `-.   \_\_`. _.'_/_/  -' _.' /   
  `-.`___`-.__\ \___  /__.-'_.'_.-'    
                 `=--=-'               
->
+''
 <p align="left">
 <a href="https://twitter.com/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrinh01028485" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ctrinh01028485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ctrinh01028485" height="30" width="40" /></a>
