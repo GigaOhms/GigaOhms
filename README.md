@@ -85,7 +85,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
 **Dr. Tan-Tai Tran**  
 *IUHPEAL / Lab Supervisor*
@@ -94,7 +94,7 @@
 **Email:** trantantai@iuh.edu.vn
 
 </td>
-<td width="50%">
+<td width="60%">
 
 **Minh Huong**  
 *MEI Group CO.,LTD / Engineer*
