@@ -1,8 +1,8 @@
 <!-- markdown with HTML layout -->
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td style="width: 20%; vertical-align: top; padding-right: 20px;">
+    <td style="width: 35%; vertical-align: top; padding-right: 20px;">
 
 <img src="avatar.jpg" alt="Avatar" width="100%" style="border-radius: 50%; margin-bottom: 10px;">
 
