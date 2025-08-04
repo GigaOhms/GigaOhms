@@ -46,7 +46,7 @@
 </td>
 <td width="70%" valign="top">
 
-## 💼 WORK EXPERIENCE
+## 💼 WORK EXPERIENCE ---
 
 ### Hardware Engineer - Intern
 **MEI Group CO.,LTD | HCMC** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Nov. 2022 - Feb. 2023*
