@@ -7,7 +7,7 @@
 
 ## 📞 CONTACT
 
-📱 **+84 86-9733-154**
+📱 **+84 869-733-154**
 
 📧 **ctrinh01028485@gmail.com**
 
@@ -22,14 +22,14 @@
 ### Industrial University of Ho Chi Minh City
 
 **Electrical - Electronic engineering**  
-*Undergraduate*  
-**2019 - Now**
+*Graduate*  
+**2019 - 2023**
 
 ---
 
 ## 🛠️ SKILLS
 
-• Working knowledge of Altium
+• Working knowledge of Altium, Kicad
 
 • Using PSim/Simulink to simulate PE
 
