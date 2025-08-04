@@ -1,9 +1,12 @@
-# Trinh-Cong Ho  
-**Intern**
+<!-- markdown with HTML layout -->
 
----
+<table>
+  <tr>
+    <td style="width: 35%; vertical-align: top; padding-right: 20px;">
 
-## 📞 CONTACT
+<img src="avatar.jpg" alt="Avatar" width="100%" style="border-radius: 50%; margin-bottom: 10px;">
+
+### 📞 CONTACT
 
 - **Phone**: +84 86-9733-154  
 - **Email**: ctrinh01028485@gmail.com  
@@ -12,7 +15,7 @@
 
 ---
 
-## 🎓 EDUCATION
+### 🎓 EDUCATION
 
 **Industrial University of Ho Chi Minh City**  
 *Electrical – Electronic Engineering (Undergraduate)*  
@@ -20,7 +23,7 @@
 
 ---
 
-## 🧠 SKILLS
+### 🧠 SKILLS
 
 - Working knowledge of Altium  
 - Using PSIM/Simulink to simulate PE  
@@ -30,42 +33,48 @@
 - Teamwork, communication  
 - Analytical, problem solving, debugging  
 
+</td>
+<td style="width: 65%; vertical-align: top;">
+
+## <span style="font-size: 2em;">Trinh-Cong Ho</span>  
+**Intern**
+
 ---
 
-## 💼 WORK EXPERIENCE
+### 💼 WORK EXPERIENCE
 
-### Hardware Engineer – Intern  
+#### Hardware Engineer – Intern  
 **MEI Group CO., LTD | HCMC**  
 *Nov. 2022 – Feb. 2023*
 
-- Designing and developing circuit boards, including schematic capture, component selection, layout design and optimized design.  
-- Collaborating with cross-functional teams, including software engineers and product managers, to define system requirements and design constraints.  
-- Basic programming on C/C++ based microcontrollers and available frameworks.  
-- Participate in the development of some products at the request of customers' partners.  
+- Designing and developing circuit boards...  
+- Collaborating with cross-functional teams...  
+- Basic programming on C/C++ based microcontrollers...  
+- Participate in the development...
 
-### Lab Assistant  
+#### Lab Assistant  
 **IUHPEAL Lab | Industrial University of HCMC**  
 *Sep. 2022 – May. 2023*
 
-- Participate in simulation and control projects on PSIM/Simulink software and experimental.  
-- Implementation of digital controls on DSP/Microcontroller.  
-- Working with circuit layout and PCB design tools to create and modify circuit schematics and layouts.  
-- Testing, measurements and resolving hardware or software-related problems.  
-- Assisting in the documentation of lab procedures, experiment protocols, and results.  
+- Participate in simulation and control projects...  
+- Implementation of digital controls...  
+- Working with PCB design tools...  
+- Testing and resolving issues...  
+- Assisting in documentation...
 
 ---
 
-## 🧪 PROJECTS
+### 🧪 PROJECTS
 
-- Experimental model of low power 3-phase inverter using STM32F103  
-- Low cost isolating dummy Probe for oscilloscope  
-- Digital implementation and design of an AC/DC PFC converter combined with a two-switch DC/DC forward converter for battery charging applications  
-- Simulation and analysis of a High-Performance Single-Phase Bridgeless Interleaved PFC Converter for EV battery chargers  
-- Research and Manufacturing Model Analysis of Electrical Parameters using Hall Sensor Applications in Power Electronics  
+- Experimental model of low power 3-phase inverter  
+- Dummy Probe for oscilloscope  
+- AC/DC PFC converter + two-switch forward  
+- Bridgeless Interleaved PFC Converter  
+- Hall Sensor Analysis for Power Electronics  
 
 ---
 
-## 📁 REFERENCES
+### 📁 REFERENCES
 
 **Dr. Tan-Tai Tran**  
 IUHPEAL / Lab Supervisor  
@@ -77,3 +86,6 @@ MEI Group CO., LTD / Engineer
 - Phone: 0523878084  
 - Email: minhuong09052001@gmail.com  
 
+</td>
+</tr>
+</table>
