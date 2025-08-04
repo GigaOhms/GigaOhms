@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @GigaOhms</h1>
-<!-- <h3 align="center">A learner looking for different opportunities to learn and work</h3> -->
+<!-- <h3 align="center">A learner looking for different opportunities to learn and work</h3>
 
                             _ooOoo_
                            o8888888o
@@ -54,4 +54,6 @@
 - - [x] Analytical
 - - [x] Problem solving
 - - [x] Teamwork
+-->
+
 
